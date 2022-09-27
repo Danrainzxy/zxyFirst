@@ -1,0 +1,22 @@
+{
+  "name": "zxyFirst",
+  "version": "0.1.0",
+  "summary": "A short description of zxyFirst.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zxy/zxyFirst",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zxy": "13641654905@163.com"
+  },
+  "source": {
+    "git": "https://github.com/Danrainzxy/zxyFirst.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "zxyFirst/Classes/**/*"
+}

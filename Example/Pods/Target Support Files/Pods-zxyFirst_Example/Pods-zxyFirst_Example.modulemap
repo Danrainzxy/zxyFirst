@@ -1,0 +1,6 @@
+framework module Pods_zxyFirst_Example {
+  umbrella header "Pods-zxyFirst_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

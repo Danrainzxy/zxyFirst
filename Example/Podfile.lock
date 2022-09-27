@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - zxyFirst (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - zxyFirst (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  zxyFirst:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  zxyFirst: 4650b2a17f2e2c73e573f65391c099f8635cca88
+
+PODFILE CHECKSUM: 4e3bae2870c1d1cafba16f2315ab57a358ac89e9
+
+COCOAPODS: 1.11.3
